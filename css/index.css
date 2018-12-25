@@ -334,7 +334,7 @@ body {
   color: #FF0036;
   opacity: 1;
 }
-.container-fluid.ad .container .ad-menu li a .icon {
+.container-fluid.ad .container .ad-menu li a .iconfont {
   display: flex;
   display: -webkit-flex;
   align-items: center;
